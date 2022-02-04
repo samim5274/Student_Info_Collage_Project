@@ -1,0 +1,66 @@
+body{
+		background:url(pp.jpg)no-repeat;
+		background-size:cover;
+		margin:o;
+	}
+	
+	.menu{
+		width:100%;
+		background:#142b47;
+		overflow:auto;
+	}
+	.menu ul{
+		margin:o;
+		padding:0;
+		list-style:none;
+		line-height:60px;
+	}
+	.menu li{
+		float:left;
+	}
+	.menu ul li a{
+		background:#142b47;
+		text-decoration:none;
+		width:130px;
+		display:block;
+		text-align:center;
+		color:#f2f2f2;
+		font-size:18px;
+		font-family:sans-serif;
+		letter-spacing:0.5px;
+		
+	}
+	.menu li a:hover {
+		color:#fff;
+		opacity:0.5;
+		font-size:19px;
+	
+	}
+	.search0form{
+		margin-top:15px;
+		float:right;
+		margin-right:100px;
+	}
+	.input[type=text]{
+		padding:7px;
+		border:none;
+		font-size:16px;
+		font-family:sens-serif;
+	
+	}
+	button{
+		float:roght;
+		background:gray;
+		color:white;
+		border-radius; 0 5px 5px 0;
+		cursur:pointer;
+		position:relative;
+	
+		margin:px auto;
+		height:22px;
+		font-family:sens-serif;
+		border:none;
+		relative:absolute;
+		font-size:16px;
+	}
+	h1{color:white;}

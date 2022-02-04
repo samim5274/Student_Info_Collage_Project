@@ -1,0 +1,28 @@
+body{
+	margin:0;
+	padding:0;
+	background-color:#0c002b;
+	font-family:sans-serifs;
+}
+.p{
+	color:white;
+	font-size:50px;
+	position:absolute;
+	top:35px;
+	left:400px;
+	text-transform:uppercase;
+	text-decoration:none;
+	box-shadow:0 20px 50px rgba(0,0,0,.5);
+}
+.table{
+	position:absolute;
+	top:150px;
+	
+}
+.th{
+	color:white;
+}
+.td{
+	color:white;
+	left:50%;
+}
